@@ -1,0 +1,13 @@
+.imagen{
+        border: 25px ;
+        width: 500px;
+        background-image: url(klematis.jpg);
+        
+}
+p{
+    background-color: white;
+    opacity: 0.5;
+    padding: 20%;
+    width: 200px;
+    
+     }
