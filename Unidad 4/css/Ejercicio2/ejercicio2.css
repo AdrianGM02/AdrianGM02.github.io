@@ -1,0 +1,14 @@
+.primera {
+    border: 0cm;
+    background-color: gray;
+    text-indent: 20px;
+    width: 500px;
+    padding: 25px;
+    
+}
+
+.primera p::first-letter{
+    text-transform: uppercase;
+    color: red;
+}
+
