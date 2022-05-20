@@ -6,9 +6,33 @@
     <description>Página web personal</description>
     <item>
         <title>Ejercicio 1</title>
-        <link>https://github.com/JavierPA3/JavierPA3.github.io/blob/main/unidad6/PostigoJavier_ej1/PostigoJavier_ej1.xml</link>
+        <link>https://adriangm02.github.io/unidad6/ej1/ej1.xml</link>
+        <description>Ejercicio1</description>
 
     </item>
+
+    <item>
+        <title>Ejercicio 2</title>
+        <link>https://adriangm02.github.io/unidad6/ej2/ej2.xml</link>
+        <description>Ejercicio2</description>
+
+    </item>
+
+    <item>
+        <title>Ejercicio 3</title>
+        <link>https://adriangm02.github.io/unidad6/ej3/ej3.xml</link>
+        <description>Ejercicio3</description>
+
+    </item>
+
+    <item>
+        <title>Ejercicio 4</title>
+        <link></link>
+        <description>Ejercicio3</description>
+
+    </item>
+
+    
 </channel>
 
 

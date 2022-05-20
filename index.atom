@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>XML Atom Channel Jose Luis Perez Lara LM</title>
+  <link href="https://adriangm02.github.io/"/>
+  <updated>2022-04-01T12:20:20Z</updated>
+  <author>
+    <name>Jose Luis Perez Lara</name>
+  </author>
+  <id>https://joseluixrax.github.io</id>
+
+  <entry>
+    <title>Ejercicio 1 </title>
+    <link href="https://adriangm02.github.io/Unidad%203/Ejercicio1/ejercicio1.html"/>
+    <id>https://adriangm02.github.io/Unidad%203/Ejercicio1/ejercicio1.html</id>
+    <updated>2022-05-20T18:29:00Z</updated>
+    <summary>Ejercicio 1 </summary>
+  </entry>
+  <entry>
+    <title>Ejercicio 2 </title>
+    <link href="https://adriangm02.github.io/Unidad%203/Ejercicio2/ejercicio2.html"/>
+    <id>https://adriangm02.github.io/Unidad%203/Ejercicio2/ejercicio2.html</id>
+    <updated>2022-05-20T18:29:00Z</updated>
+    <summary>Ejercicio 3</summary>
+  </entry>
+  <entry>
+    <title>Ejercicio 3 </title>
+    <link href="https://adriangm02.github.io/Unidad%203/Ejercicio3/ejercicio3.html"/>
+    <id>https://adriangm02.github.io/Unidad%203/Ejercicio3/ejercicio3.html</id>
+    <updated>2022-05-20T18:29:00Z</updated>
+    <summary>Ejercicio 3</summary>
+  </entry>
+  <entry>
+    <title>Ejercicio 4 </title>
+    <link href="https://adriangm02.github.io/Unidad%203/Ejercicio4/ejercicio4.html"/>
+    <id>https://adriangm02.github.io/Unidad%203/Ejercicio4/ejercicio4.html</id>
+    <updated>2022-05-20T18:29:00Z</updated>
+    <summary>Ejercicio 4 </summary>
+  </entry>
+  <entry>
+    <title>Ejercicio 5 </title>
+    <link href="https://adriangm02.github.io/Unidad%203/Ejercicio5/ejercicio5.html"/>
+    <id>https://adriangm02.github.io/Unidad%203/Ejercicio5/ejercicio5.html</id>
+    <updated>2022-05-20T17:45:03Z</updated>
+    <summary>Ejercicio 5 </summary>
+  </entry>
+</feed>
