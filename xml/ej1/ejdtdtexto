@@ -1,0 +1,6 @@
+﻿<!DOCTYPE texto [
+  <!ELEMENT texto ((#PCDATA | parrafo), titulo)>
+  <!ELEMENT titulo (#PCDATA)>
+  <!ELEMENT parrafo (#PCDATA | abreviatura)>
+  <!ELEMENT abreviatura (#PCDATA)>
+]>
